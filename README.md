@@ -1,10 +1,8 @@
 # Ken Chen
 
-**Quantitative Researcher | Machine Learning | AI Agents**
+**Quantitative Researcher | AI Agents**
 
-Quantitative researcher with 10+ years of experience in systematic equities, futures and crypto trading, alpha research, machine learning, and portfolio optimization.
-
-Interested in applying AI agents to automate quantitative research, improve experiment reproducibility, and accelerate research workflows.
+Quantitative researcher with 10+ years of experience in systematic trading across **equities, futures, and cryptocurrencies**. Currently exploring **AI agents and LLM-powered research workflows**.
 
 ## Featured Projects
 
@@ -12,17 +10,16 @@ Interested in applying AI agents to automate quantitative research, improve expe
 
 AI-assisted equity factor research using Microsoft Qlib. Transforms research hypotheses into reproducible experiments with controlled model comparisons, statistical validation, and evidence-backed reports.
 
-**Tech:** Python, Microsoft Qlib, Agent Skills, Statistical Learning
+**Tech:** Microsoft Qlib, Agent Skills
 
 ### [Spotify MCP Assistant](https://github.com/ck2w/spotify-mcp-assistant)
 
-Python MCP server integrating Spotify with AI assistants. Includes 32 tools, OAuth authentication, multi-client integration, and safety-aware workflows for state-changing operations.
+Python MCP server integrating Spotify with AI assistants. Includes 32 tools, OAuth authentication, multi-client integration, and safety-aware workflows.
 
-**Tech:** Python, FastMCP, OAuth, MCP, Tool Calling
+**Tech:** FastMCP, OAuth, MCP, Tool Calling
 
-## Research Interests
+## Research & Engineering Interests
 
-- **Quantitative Research:** Equity alpha, futures trading, factor modeling, portfolio optimization
-- **Machine Learning:** Deep learning
-- **Agentic AI:** LLM agents, tool calling, MCP, automated research workflows
-- **Research Engineering:** Backtesting, statistical validation, reproducibility, automated testing
+- **Quantitative Research:** Equity alpha, futures and cryptocurrency trading, factor modeling, portfolio optimization
+- **Machine Learning & Deep Learning:** Neural networks, Transformers
+- **Agentic AI:** LLM agents, MCP, tool calling, automated research workflows
